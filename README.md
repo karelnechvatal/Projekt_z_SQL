@@ -54,9 +54,9 @@ Výsledky ukazují, že meziroční růst HDP má pouze omezený a nepravidelný
 ---
 
 ## Omezení a poznámky k datům
-- Některé roky obsahují chybějící hodnoty (NULL), zejména v dřívějších obdobích, což může ovlivnit výstupy analýzy.
-- Data o HDP jsou dostupná od roku 1990, mzdy a ceny potravin mají různou časovou dostupnost.
-- U cen potravin se jedná o průměry několika kategorií, proto může být vhodné rozšířit analýzu o detailnější pohledy na jednotlivé potravinové skupiny.
+- Některé roky obsahují chybějící hodnoty (NULL), zejména v dřívějších obdobích, což může ovlivnit výsledky analýzy.
+- Data o HDP jsou dostupná od roku 1960, avšak ne pro všechny země a roky, mzdy a ceny potravin mají různou časovou dostupnost podle zdrojů a kategorií.
+- Ceny potravin jsou zprůměrovány z několika kategorií, proto by bylo vhodné rozšířit analýzu o detailnější pohled na jednotlivé potravinové skupiny.
 
 ---
 
