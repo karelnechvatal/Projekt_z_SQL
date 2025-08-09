@@ -29,8 +29,14 @@ Cílem tohoto projektu je odpovědět na několik klíčových otázek týkajíc
 
 ## Výzkumné otázky a výsledky
 
-### 1. Rostou mzdy ve všech odvětvích, nebo v některých klesají?  
-Mzdy rostly ve většině odvětví za sledované období(2000-2021), přičemž nejnižší růst činil +166,22 %, což odpovídá nárůstu z 9 036 Kč na 24 056 Kč. V některých odvětvích byl růst výrazně vyšší (až přes 400 %).
+### 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají? 
+Analýza ukazuje, že mzdy rostou ve všech sledovaných odvětvích za období prvního a posledního dostupného roku. Nejnižší celkový růst mzdy zaznamenalo odvětví těžby a dobývání s růstem o 129,06 % a průměrným ročním tempem růstu (CAGR) 4,03 %. Naopak nejvyšší růst vykázalo odvětví zdravotní a sociální péče s celkovým růstem 285,37 % a CAGR 6,63 %.
+
+Původní verze analýzy porovnávala pouze minimální a maximální průměrné mzdy bez ohledu na to, zda tyto hodnoty odpovídaly stejným rokům, což mohlo vést k nepřesnostem. Proto jsem upravil metodiku tak, aby porovnávala mzdy mezi prvním a posledním rokem dostupných dat pro každé odvětví.
+
+Navíc jsem přidal výpočet CAGR (průměrné roční tempo růstu), který lépe zachycuje dynamiku změn mezd v čase a umožňuje spravedlivější srovnání mezi odvětvími s různou délkou sledovaného období.
+
+Tímto způsobem výsledky přesněji reflektují skutečný vývoj mezd v jednotlivých odvětvích.
 
 ### 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 V roce 2006 odpovídala kupní síla průměrné mzdy množství přibližně 1 257,18 kg chleba konzumního kmínového a 1 403,97 litrů polotučného mléka. V roce 2018 se toto množství zvýšilo na 1 317,37 kg chleba a 1 611,26 litrů mléka.
