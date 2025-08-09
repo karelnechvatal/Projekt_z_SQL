@@ -57,11 +57,19 @@ Naopak nejnižší rozdíl byl -9,66 % bodu, což znamená, že v některých le
 ### 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 Analýza ročních meziročních růstů HDP, mezd a cen potravin ukazuje, že vztah mezi růstem HDP a růstem mezd či cen potravin není jednoznačně silný ani bezprostřední.
 
-Ve stejném roce: Zvýšení HDP většinou koreluje s mírným zvýšením mezd a cen potravin, ale velikost tohoto růstu je různorodá a často méně výrazná než růst HDP. V některých letech došlo k růstu HDP bez adekvátního růstu mezd či cen (např. rok 2014), jindy naopak mzdy rostly i při poklesu HDP (např. rok 2009).
-V následujícím roce: Data ukazují, že zvýšení HDP může mít zpožděný vliv na růst mezd a cen potravin, ale tento efekt není stabilní ani konzistentní. Některé roky vykazují silnější růst mezd nebo cen potravin po růstu HDP v předchozím roce (např. rok 2017 po růstu HDP v roce 2016), ale existují i výjimky.
-Celkově: Růst HDP je důležitým makroekonomickým ukazatelem, ale ovlivnění mezd a cen potravin závisí také na dalších faktorech, jako jsou inflace, politika trhu práce, ceny surovin, mezinárodní ekonomické podmínky a specifické tržní síly.
-Doporučení: Pro robustní závěr by bylo vhodné doplnit analýzu korelačním testem (například Pearsonova korelace) a případně pokročilejšími statistickými metodami (např. modely časových řad, Grangerova kauzalita), aby se ověřila síla a směr vzájemné závislosti.
-Shrnutí:
+# Ve stejném roce:
+ Zvýšení HDP většinou koreluje s mírným zvýšením mezd a cen potravin, ale velikost tohoto růstu je různorodá a často méně výrazná než růst HDP. V některých letech došlo k růstu HDP bez adekvátního růstu mezd či cen (např. rok 2014), jindy naopak mzdy rostly i při poklesu HDP (např. rok 2009).
+
+
+# V následujícím roce: 
+Data ukazují, že zvýšení HDP může mít zpožděný vliv na růst mezd a cen potravin, ale tento efekt není stabilní ani konzistentní. Některé roky vykazují silnější růst mezd nebo cen potravin po růstu HDP v předchozím roce (např. rok 2017 po růstu HDP v roce 2016), ale existují i výjimky.
+# Celkově: 
+Růst HDP je důležitým makroekonomickým ukazatelem, ale ovlivnění mezd a cen potravin závisí také na dalších faktorech, jako jsou inflace, politika trhu práce, ceny surovin, mezinárodní ekonomické podmínky a specifické tržní síly.
+# Doporučení: 
+Pro robustní závěr by bylo vhodné doplnit analýzu korelačním testem (například Pearsonova korelace) a případně pokročilejšími statistickými metodami (např. modely časových řad, Grangerova kauzalita), aby se ověřila síla a směr vzájemné závislosti.
+
+
+# Shrnutí:
 Výraznější růst HDP může přispět k růstu mezd a cen potravin, ale nelze ho považovat za jediný nebo bezprostřední faktor. Vliv je spíše mírný a často zpožděný, což reflektuje komplexní povahu ekonomiky a další vnější vlivy.
 
 ---
